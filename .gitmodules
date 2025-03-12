@@ -1,0 +1,6 @@
+[submodule "BuyBuddy-frontend"]
+	path = BuyBuddy-frontend
+	url = https://github.com/Shruti-Shrivastava19/BuyBuddy-frontend
+[submodule "BuyBuddy-backend"]
+	path = BuyBuddy-backend
+	url = https://github.com/Shruti-Shrivastava19/BuyBuddy-backend
